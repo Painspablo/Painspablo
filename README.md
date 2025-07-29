@@ -8,15 +8,13 @@ Sou um estudante dedicado de Tecnologia da Informação, em busca constante de c
 🌱 **Ainda estou em crescimento...** 
 
 Desenvolvi meus primeiros projetos utilizando tecnologias web.
-Comecei a explorar plataformas de gerenciamento de conteúdo, focando em personalização e acessibilidade.
+Comecei a explorar plataformas de gerenciamento de conteúdo, focando em personalização.
 Estou aprendendo sobre controle de versões na prática, aplicando em projetos reais.
 Tenho interesse em compreender o raciocínio por trás de cada linha de código.
-
-🎯 **O que me motiva?**  
-A curiosidade. Sempre fui daquelas pessoas que desmonta tudo pra ver como funciona. Agora estou tentando "montar" coisas que ajudem, ensinem ou inspirem alguém.  
+Buscando avançar e aprender linguagens e ferramentas novas.
 
 💬 **Minha meta aqui no GitHub?**  
-Mostrar meu progresso, compartilhar ideias e deixar registrado que todo mundo começa de algum lugar — e esse aqui é o meu.
+Mostrar meu progresso, compartilhar ideias e deixar registrado que todo mundo começa de algum lugar e esse aqui é o meu.
 
 ---
 
