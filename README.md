@@ -18,4 +18,7 @@ Mostrar meu progresso, compartilhar ideias e deixar registrado que todo mundo co
 
 ---
 
-📬 Em breve: mais formas de contato por aqui. Enquanto isso, fique à vontade para explorar meus projetos!
+Enquanto isso, fique à vontade para explorar meus projetos!
+
+📫 **Meu Contato:**  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:painspablo@gmail.com)  
